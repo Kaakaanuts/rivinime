@@ -3,4 +3,4 @@ Mini project untuk website sederhana Review Anime (Rivinime) berbasis `Laravel 1
 
 Untuk readme selanjutnya ditunggu yaaa :D
 
-wait yaa sori baru bangkit dari hibernasi, karena atmin baru JJ lolos SNBT + daful di ptn yang atmin dapet hehe🩵⚡. ditunggu yaa commit selanjutnya, atmin masih proses develop webnya👨‍💻
+wait yaa sori baru bangkit dari hibernasi, karena atmin baru bikin JJ lolos SNBT + daful di ptn yang atmin dapet hehe🩵⚡. ditunggu yaa commit selanjutnya, atmin masih proses develop webnya👨‍💻
